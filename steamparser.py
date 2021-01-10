@@ -23,6 +23,8 @@ class SteamParser:
         try:
             response = requests.get(
                 steamDiscountPage, headers=self.__headers, cookies=self.__cookies, timeout=(3, 10))
+            # print(response)
+            # print(response.text)
             gameRows = BeautifulSoup(response.text, features='lxml').find_all('tr', {'class': 'app appimg'})
             print("Number of games in table: {}".format(len(gameRows)))
             newSalesList = []; endingSalesList = []
@@ -64,6 +66,7 @@ class SteamParser:
                                         "name" : gameChars[2].find('a').string,
                                         "discount" : gameChars[3]['data-sort'] + '%',
                                         "price" : str(float(gameChars[4]['data-sort']) / 100) + 'р.',
+                                        "rating" : gameChars[5]["data-sort"] + '%',
                                         "steam_link" : 'https://store.steampowered.com' + gameChars[2].find('a')['href']
                                     }
                             if started_filter: newSalesList.append(gameRow)
@@ -80,7 +83,7 @@ class SteamParser:
 
     def generateTop(self):
         response = requests.get(
-                "https://steamdb.info/topsellers/", headers=self.__headers, cookies=self.__cookies, timeout=(3, 10))
+                steamTopPage, headers=self.__headers, cookies=self.__cookies, timeout=(3, 10))
         link = "https://steamdb.info" + BeautifulSoup(response.text, features='lxml').find('a', {'class' : 'btn', 'rel': 'prev'})['href']
         response = requests.get(
                 link, headers=self.__headers, cookies=self.__cookies, timeout=(3, 10))

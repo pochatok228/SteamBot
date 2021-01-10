@@ -2,7 +2,7 @@
 
 
 
-White Dandelion · AppID: 1467130 · SteamDB
+Corrupted Hospital : Summoner Part1 · AppID: 1440870 · SteamDB
 
 
 
@@ -128,7 +128,7 @@ SteamDB is a community website and is not affiliated with Valve or Steam. All ti
 
 
 
-White Dandelion
+Corrupted Hospital : Summoner Part1
 
 Wishlist
 Follow
@@ -145,31 +145,39 @@ Ignore
 
 
 App ID
-1467130
+1440870
 
 
 App Type
 Game
 
 
+Store Name
+Corrupted Hospital : Summoner VR Part1
+
+
 Developer
-玫瑰工作室 
+MINO ENTERTAINMENT INC 
 
 
 Publisher
-玫瑰工作室 
+MINO ENTERTAINMENT INC 
+
+
+Supported Systems
+ Windows
 
 
 Last Record Update
- (20 November 2020 – 13:48:09 UTC)
+ (20 December 2020 – 06:55:05 UTC)
 
 
 Last Change Number 
-10066750
+10304257
 
 
 Release Date
-20 November 2020 – 13:48:04 UTC ()
+23 October 2020 – 21:53:36 UTC ()
 
 
 
@@ -189,11 +197,13 @@ Hub
 
 
 
-❓ 55.69%
-↑2 ↓1
 
 
-0
+❓ 66.03%
+↑26 ↓9
+
+
+1
 In-Game
 
 
@@ -205,7 +215,30 @@ In-Game
 
 
 
-White Dandelion is an addicting game in which you have to solve puzzles with Lovely Girls.The game is perfect for relaxing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This game is a puzzle adventure game with a horror atmosphere. And there's an special stage where you have to defend against zombies on dark night.
 
 
 
@@ -222,8 +255,8 @@ You can also click "Watch" button in top right, and use the watching page which 
 
 
  Prices Steam Charts Information
- Packages 2
- Depots 1 Configuration Screenshots
+ Packages 1
+ Depots 3 Configuration Screenshots
  History
 
 
@@ -377,410 +410,410 @@ Lowest Recorded Price
 
  U.S. Dollar
 
-$0.79 at -60%
-58,63 ₽
-+144.30%
-55,66 ₽
-$0.75 at -62%
+$1.49 at -50%
+110,38 ₽
++169.23%
+110,38 ₽
+$1.49 at -50%
 
 
 
  British Pound
 
-£0.67 at -60%
-67,44 ₽
-+181.02%
-64,42 ₽
-£0.64 at -62%
+£1.04 at -50%
+104,51 ₽
++154.92%
+104,51 ₽
+£1.04 at -50%
 
 
 
  Euro
 
-0,63€ at -60%
-57,16 ₽
-+138.19%
-54,44 ₽
-0,60€ at -62%
+1,19€ at -50%
+107,77 ₽
++162.87%
+107,77 ₽
+1,19€ at -50%
 
 
 
  Russian Ruble
 
-24 ₽ at -61%
-24 ₽
-23 ₽
-23 ₽ at -62%
+41 ₽ at -50%
+41 ₽
+41 ₽
+41 ₽ at -50%
 
 
 
  Brazilian Real
 
-R$ 1,79 at -60%
-24,50 ₽
-+2.10%
-23,27 ₽
-R$ 1,70 at -62%
+R$ 3,24 at -50%
+44,32 ₽
++8.11%
+44,32 ₽
+R$ 3,24 at -50%
 
 
 
  Japanese Yen
 
-¥ 82 at -60%
-58,55 ₽
-+143.96%
-54,98 ₽
-¥ 77 at -62%
+¥ 155 at -50%
+110,46 ₽
++169.43%
+110,46 ₽
+¥ 155 at -50%
 
 
 
  Indonesian Rupiah
 
-Rp 6999 at -60%
-36,76 ₽
-+53.18%
-34,92 ₽
-Rp 6649 at -62%
+Rp 12499 at -50%
+65,50 ₽
++59.77%
+65,50 ₽
+Rp 12499 at -50%
 
 
 
  Malaysian Ringgit
 
-RM2.20 at -60%
-40,49 ₽
-+68.71%
-38,46 ₽
-RM2.09 at -62%
+RM4.25 at -50%
+78,07 ₽
++90.44%
+78,07 ₽
+RM4.25 at -50%
 
 
 
  Philippine Peso
 
-₱27.98 at -60%
-43,19 ₽
-+79.99%
-41,03 ₽
-₱26.58 at -62%
+₱49.97 at -50%
+76,99 ₽
++87.79%
+76,99 ₽
+₱49.97 at -50%
 
 
 
  Singapore Dollar
 
-S$0.86 at -60%
-48,16 ₽
-+100.69%
-45,36 ₽
-S$0.81 at -62%
+S$1.62 at -50%
+90,51 ₽
++120.77%
+90,51 ₽
+S$1.62 at -50%
 
 
 
  Thai Baht
 
-฿18.00 at -60%
-44,33 ₽
-+84.74%
-42,11 ₽
-฿17.10 at -62%
+฿31.50 at -50%
+77,43 ₽
++88.87%
+77,43 ₽
+฿31.50 at -50%
 
 
 
  Vietnamese Dong
 
-12000₫ at -60%
-38,53 ₽
-+60.55%
-36,92 ₽
-11500₫ at -62%
+21500₫ at -50%
+68,90 ₽
++68.06%
+68,90 ₽
+21500₫ at -50%
 
 
 
  South Korean Won
 
-₩ 880 at -60%
-59,74 ₽
-+148.96%
-57,03 ₽
-₩ 840 at -62%
+₩ 1650 at -50%
+111,83 ₽
++172.77%
+111,83 ₽
+₩ 1650 at -50%
 
 
 
  Turkish Lira
 
-₺1,68 at -60%
-16,89 ₽
--29.59%
-15,99 ₽
-₺1,59 at -62%
+₺3,10 at -50%
+31,13 ₽
+-24.06%
+31,13 ₽
+₺3,10 at -50%
 
 
 
  Ukrainian Hryvnia
 
-16₴ at -60%
-42 ₽
-+75.01%
-39,37 ₽
-15₴ at -63%
+29₴ at -51%
+75,83 ₽
++84.95%
+75,83 ₽
+29₴ at -51%
 
 
 
  Mexican Peso
 
-Mex$ 10.79 at -60%
-40,10 ₽
-+67.11%
-38,10 ₽
-Mex$ 10.25 at -62%
+Mex$ 18.64 at -50%
+69,01 ₽
++68.33%
+69,01 ₽
+Mex$ 18.64 at -50%
 
 
 
  Canadian Dollar
 
-CDN$ 0.91 at -60%
-53,18 ₽
-+121.59%
-50,84 ₽
-CDN$ 0.87 at -62%
+CDN$ 1.69 at -50%
+98,66 ₽
++140.65%
+98,66 ₽
+CDN$ 1.69 at -50%
 
 
 
  Australian Dollar
 
-A$ 1.18 at -60%
-67,96 ₽
-+183.17%
-64,50 ₽
-A$ 1.12 at -62%
+A$ 2.25 at -50%
+129,34 ₽
++215.49%
+129,34 ₽
+A$ 2.25 at -50%
 
 
 
  New Zealand Dollar
 
-NZ$ 0.99 at -60%
-53,15 ₽
-+121.47%
-50,46 ₽
-NZ$ 0.94 at -62%
+NZ$ 1.84 at -50%
+98,75 ₽
++140.86%
+98,75 ₽
+NZ$ 1.84 at -50%
 
 
 
  Norwegian Krone
 
-6,20 kr at -60%
-54,60 ₽
-+127.53%
-51,87 ₽
-5,89 kr at -62%
+10,25 kr at -50%
+90,16 ₽
++119.92%
+90,16 ₽
+10,25 kr at -50%
 
 
 
  Polish Zloty
 
-2,87zł at -60%
-57,73 ₽
-+140.57%
-54,91 ₽
-2,73zł at -62%
+5,49zł at -50%
+110,16 ₽
++168.71%
+110,16 ₽
+5,49zł at -50%
 
 
 
  Swiss Franc
 
-CHF 0.80 at -60%
-67,07 ₽
-+179.46%
-63,71 ₽
-CHF 0.76 at -62%
+CHF 1.50 at -50%
+125,48 ₽
++206.07%
+125,48 ₽
+CHF 1.50 at -50%
 
 
 
  Chinese Yuan
 
-¥ 4 at -64%
-45,84 ₽
-+91.02%
-45,84 ₽
-¥ 4 at -64%
+¥ 7 at -53%
+80,08 ₽
++95.33%
+80,08 ₽
+¥ 7 at -53%
 
 
 
  Indian Rupee
 
-₹ 34 at -60%
-34,38 ₽
-+43.29%
-32,36 ₽
-₹ 32 at -62%
+₹ 62 at -50%
+62,59 ₽
++52.67%
+62,59 ₽
+₹ 62 at -50%
 
 
 
  Chilean Peso
 
-CLP$ 400 at -60%
-41,68 ₽
-+73.70%
-39,60 ₽
-CLP$ 380 at -62%
+CLP$ 750 at -50%
+78,06 ₽
++90.40%
+78,06 ₽
+CLP$ 750 at -50%
 
 
 
  Peruvian Sol
 
-S/.2.00 at -60%
-40,98 ₽
-+70.76%
-38,93 ₽
-S/.1.90 at -62%
+S/.3.75 at -50%
+76,54 ₽
++86.68%
+76,54 ₽
+S/.3.75 at -50%
 
 
 
  Colombian Peso
 
-COL$ 1800 at -60%
-38,19 ₽
-+59.15%
-36,28 ₽
-COL$ 1710 at -62%
+COL$ 3250 at -50%
+68,84 ₽
++67.91%
+68,84 ₽
+COL$ 3250 at -50%
 
 
 
  South African Rand
 
-R 7.20 at -60%
-34,91 ₽
-+45.47%
-33,16 ₽
-R 6.84 at -62%
+R 13.50 at -50%
+65,35 ₽
++59.40%
+65,35 ₽
+R 13.50 at -50%
 
 
 
  Hong Kong Dollar
 
-HK$ 4.80 at -60%
-45,93 ₽
-+91.38%
-43,63 ₽
-HK$ 4.56 at -62%
+HK$ 9.00 at -50%
+85,96 ₽
++109.66%
+85,96 ₽
+HK$ 9.00 at -50%
 
 
 
  Taiwan Dollar
 
-NT$ 18 at -60%
-47,68 ₽
-+98.67%
-45,03 ₽
-NT$ 17 at -62%
+NT$ 33 at -50%
+87,25 ₽
++112.82%
+87,25 ₽
+NT$ 33 at -50%
 
 
 
  Saudi Riyal
 
-2.10 SR at -60%
-41,54 ₽
-+73.10%
-39,36 ₽
-1.99 SR at -62%
+3.97 SR at -50%
+78,39 ₽
++91.20%
+78,39 ₽
+3.97 SR at -50%
 
 
 
  U.A.E. Dirham
 
-2.40 AED at -60%
-48,49 ₽
-+102.06%
-46,07 ₽
-2.28 AED at -62%
+4.50 AED at -50%
+90,76 ₽
++121.38%
+90,76 ₽
+4.50 AED at -50%
 
 
 
  Argentine Peso
 
-ARS$ 10,79 at -60%
-9,40 ₽
--60.80%
-8,93 ₽
-ARS$ 10,25 at -62%
+ARS$ 19,99 at -50%
+17,40 ₽
+-57.56%
+17,40 ₽
+ARS$ 19,99 at -50%
 
 
 
  Israeli New Shekel
 
-₪2.90 at -60%
-67,62 ₽
-+181.75%
-64,12 ₽
-₪2.75 at -62%
+₪5.47 at -50%
+127,31 ₽
++210.53%
+127,31 ₽
+₪5.47 at -50%
 
 
 
  Kazakhstani Tenge
 
-180₸ at -60%
-31,85 ₽
-+32.72%
-30,26 ₽
-171₸ at -62%
+325₸ at -50%
+57,28 ₽
++39.73%
+57,28 ₽
+325₸ at -50%
 
 
 
  Kuwaiti Dinar
 
-0.18 KD at -60%
-44 ₽
-+83.34%
-41,55 ₽
-0.17 KD at -62%
+0.32 KD at -51%
+78,13 ₽
++90.56%
+78,13 ₽
+0.32 KD at -51%
 
 
 
  Qatari Riyal
 
-2.19 QR at -60%
-44,64 ₽
-+86.00%
-42,39 ₽
-2.08 QR at -62%
+4.09 QR at -50%
+83,21 ₽
++102.97%
+83,21 ₽
+4.09 QR at -50%
 
 
 
  Costa Rican Colon
 
-₡380 at -60%
-45,93 ₽
-+91.42%
-43,52 ₽
-₡360 at -62%
+₡700 at -50%
+84,29 ₽
++105.60%
+84,29 ₽
+₡700 at -50%
 
 
 
  Uruguayan Peso
 
-$U19 at -60%
-33,18 ₽
-+38.26%
-31,43 ₽
-$U18 at -63%
+$U36 at -50%
+62,75 ₽
++53.07%
+62,75 ₽
+$U36 at -50%
 
 
 
  CIS - U.S. Dollar
 
-$0.55 at -60%
-40,81 ₽
-+70.08%
-38,59 ₽
-$0.52 at -63%
+$1.09 at -50%
+80,75 ₽
++96.95%
+80,75 ₽
+$1.09 at -50%
 
 
 
  South Asia - USD
 
-$0.51 at -60%
-37,85 ₽
-+57.71%
-36,36 ₽
-$0.49 at -62%
+$0.94 at -50%
+69,63 ₽
++69.85%
+69,63 ₽
+$0.94 at -50%
 
 
 
@@ -800,10 +833,13 @@ You must have JavaScript enabled.
 
 
 User Tags
-AdventureIndieCasualRelaxingPuzzlePoint & ClickStory RichSide ScrollerAnimeMinimalistAtmosphericSingleplayerColorfulCuteLogicHand-drawnSexual ContentLGBTQ+
+ActionAdventureZombiesSurvivalFPSPuzzleHorrorStory RichPost-apocalypticPhysicsSurvival HorrorCombatAction-AdventureRealistic3DDark Fantasy6DOFPvEHuntingVR
 
 
 Screenshots
+
+
+
 
 
 
@@ -817,35 +853,63 @@ Additional Information
 
 
 clienticon
-36de56b6417dcbf0a67405adf367898192cf6833
+d2b5f3bdf8c38354e298391f2e4cd5431d82a68a
 
 
 clienttga
-f19b30ed823651a2373d04f7b3cdb2ba0a2ee4a6
+06a1b38648c81684ad7bcf1defaaac736d9cdf85
 
 
 icon
-22d3aaca9d9cb1a15daa9c7b56cfbfbe2cecce93
+67a09a899d013b093da33eeedc64ba2829eb7653
 
 
 logo
-f6cbab106ac267dc4ba38fdeefc01998b0ea9223
+49e5cc6dfce52cf7360a56d84256c4aee1567f31
 
 
 logo_small
-f6cbab106ac267dc4ba38fdeefc01998b0ea9223_thumb
+49e5cc6dfce52cf7360a56d84256c4aee1567f31_thumb
+
+
+clienticns
+bc31e865953b914f616c1987bb9743e2c6a0fef4
+
+
+LinuxClientIcon
+9b9fce7edbb2e2c1687ba131e6c6759ac5398431
 
 
 ReleaseState
 released
 
 
+has_adult_content
+Yes
+
+
 Store Release Date
-10 November 2020 ()
+23 October 2020 ()
+
+
+osarch
+64
 
 
 community_hub_visible
 Yes
+
+
+OpenVrSupport
+1
+
+
+ControllerVr
+oculus1steamvr1
+
+
+PlayAreaVr
+roomscale/360_required0roomscale/depth1.5roomscale/width2standing1
 
 
 small_capsule
@@ -856,8 +920,16 @@ header_image
 englishheader.jpg
 
 
+vrheadsetstreaming
+Yes
+
+
+onlyvrsupport
+Yes
+
+
 Associations
-0/name玫瑰工作室0/typedeveloper1/name玫瑰工作室1/typepublisher
+0/nameMINO ENTERTAINMENT INC0/typedeveloper1/nameMINO ENTERTAINMENT INC1/typepublisher
 
 
 Primary Genre
@@ -865,7 +937,7 @@ Primary Genre
 
 
 Store Genres
-25 (Adventure), 4 (Casual), 23 (Indie)
+1 (Action), 25 (Adventure), 23 (Indie)
 
 
 Supported Languages
@@ -873,27 +945,39 @@ Supported Languages
 
 
 Steam Release Date
-20 November 2020 – 13:48:04 UTC ()
-
-
-Original Release Date
-10 November 2020 – 08:00:00 UTC (1604995200) 
+23 October 2020 – 21:53:36 UTC ()
 
 
 Store Asset Modification Time
-4 November 2020 – 12:49:17 UTC (1604494157) 
+8 October 2020 – 13:48:05 UTC (1602164885) 
 
 
 library_assets
-library_capsuleen  view portrait imagelibrary_heroen  view hero backgroundlibrary_logoen  view logo imagelogo_position/pinned_positionBottomCenterlogo_position/width_pct94.35842744051732logo_position/height_pct99.65277777777777
+library_capsuleen  view portrait imagelibrary_heroen  view hero backgroundlibrary_logoen  view logo imagelogo_position/pinned_positionBottomLeftlogo_position/width_pct54.72350230414747logo_position/height_pct59.05268913439485
+
+
+osextended
+empty string
 
 
 Web Assets
-capsule_231x87.jpgLast-Modified: 6 November 2020 – 12:21:25 UTCcapsule_616x353.jpgLast-Modified: 6 November 2020 – 12:21:25 UTCheader.jpgLast-Modified: 6 November 2020 – 12:21:25 UTClibrary_600x900.jpgLast-Modified: 6 November 2020 – 12:21:25 UTClibrary_hero.jpgLast-Modified: 6 November 2020 – 12:21:25 UTClogo.pngLast-Modified: 6 November 2020 – 12:21:25 UTC
+capsule_231x87.jpgLast-Modified: 8 October 2020 – 14:21:57 UTCcapsule_616x353.jpgLast-Modified: 8 October 2020 – 14:21:57 UTCheader.jpgLast-Modified: 8 October 2020 – 14:21:57 UTClibrary_600x900.jpgLast-Modified: 8 October 2020 – 14:21:57 UTClibrary_hero.jpgLast-Modified: 8 October 2020 – 14:21:58 UTClogo.pngLast-Modified: 8 October 2020 – 14:21:57 UTCpage_bg_raw.jpgLast-Modified: 8 October 2020 – 14:21:59 UTC
+
+
+review_score
+6
+
+
+review_percentage
+74
 
 
 Microtrailer
-https://cdn.cloudflare.steamstatic.com/steam/apps/256808126/microtrailer.webm
+https://cdn.cloudflare.steamstatic.com/steam/apps/256804084/microtrailer.webm
+
+
+has_adult_content_violence
+Yes
 
 
 
@@ -903,13 +987,13 @@ https://cdn.cloudflare.steamstatic.com/steam/apps/256808126/microtrailer.webm
 
 
 
-0 players right now
-1 24-hour peak
-3 all-time peak 31 December 2020 – 18:30:20 UTC
+1 players right now
+3 24-hour peak
+5 all-time peak 24 October 2020 – 19:10:10 UTC
 
 
 Copy this code and paste it into your website:
-<iframe src="https://steamdb.info/embed/?appid=1467130" height="389" style="border:0;overflow:hidden;width:100%"></iframe>
+<iframe src="https://steamdb.info/embed/?appid=1440870" height="389" style="border:0;overflow:hidden;width:100%"></iframe>
 
 
 
@@ -933,16 +1017,19 @@ You must have JavaScript enabled.
 
 Concurrent players
 
-0 players right now
-1 24-hour peak
-3 all-time peak 31 December 2020 – 18:30:20 UTC
+1 players right now
+3 24-hour peak
+5 all-time peak 24 October 2020 – 19:10:10 UTC
 
 
 
 Owner estimations
 
 
-60 .. 180 based on reviews
+0 .. 20,000 by SteamSpy
+
+
+700 .. 2,100 based on reviews
 
 
 
@@ -950,12 +1037,19 @@ Owner estimations
 
 Store data
 
-42 followers
-2 positive reviews
-1 negative reviews
-66.67% positive reviews
+132 followers
+26 positive reviews
+9 negative reviews
+74.29% positive reviews
 
 
+
+Playtime estimations by SteamSpy
+
+0 minutes median playtime in last 2 weeks
+0 minutes median total playtime
+0 minutes average playtime in last 2 weeks
+0 minutes average total playtime
 
 
 
@@ -984,7 +1078,7 @@ Twitch Peak
 
 
 
-How many players are playing White Dandelion right now on Steam? There are 0 players in White Dandelion on Steam. White Dandelion player counter. White Dandelion Steam charts.
+How many players are playing Corrupted Hospital : Summoner Part1 right now on Steam? There are 1 players in Corrupted Hospital : Summoner Part1 on Steam. Corrupted Hospital : Summoner Part1 player counter. Corrupted Hospital : Summoner Part1 Steam charts.
 
 
 Bundles that include this app
@@ -1001,20 +1095,20 @@ Created
 
 
 
-16434
+18320
 
 
 
 
-Rosa Bundle
+Summoner VR : Review Event Pakage
 
 
 -30%
 
 
- Yes
+No
 
-4 October 2020 – 15:02:07 UTC
+14 December 2020 – 20:02:23 UTC
 
 
 
@@ -1032,23 +1126,15 @@ Last Update
 
 
 
-516611
-
-White Dandelion for Beta Testing
-
-CD Key
-4 November 2020 – 12:43:05 UTC
-
-
-516612
+506621
 
 
 
 
-White Dandelion
+Corrupted Hospital : Summoner VR Part1
 
 Store or CD Key
-8 January 2021 – 18:00:05 UTC
+9 January 2021 – 01:00:01 UTC
 
 
 
@@ -1069,9 +1155,31 @@ Extra Info
 
 
 
-1467131
-White Dandelion Content
-88.62 MiB
+228988
+VC 2019 Redist
+28.06 MiB
+
+
+
+
+Shared InstallDepot from 228980
+
+
+
+228990
+DirectX Jun 2010 Redist
+98.16 MiB
+
+
+
+
+Shared InstallDepot from 228980
+
+
+
+1440871
+Corrupted Hospital : Summoner Part1 Content
+2.49 GiB
 
 
 
@@ -1101,9 +1209,9 @@ public
 
 
 
-5782420
+5956370
 
-4 November 2020 – 13:12:51 UTC
+11 December 2020 – 17:47:06 UTC
 
 
 
@@ -1118,12 +1226,20 @@ Launch Options
 
 
 Executable
-White Dandelion.exe
+SummonerVRHospital.exe
 
 
 
 Launch Type
-Unspecified
+Launch SteamVR App
+
+
+
+Operating System
+
+ 
+windows
+
 
 
 
@@ -1139,7 +1255,7 @@ Value
 
 
 installdir
-White Dandelion
+Corrupted Hospital Summoner Part1
 
 
 
