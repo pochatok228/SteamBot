@@ -43,7 +43,7 @@ class SteamParser:
                     started_time = int(gameChars[7]['data-sort'])
                     ending_time = int(gameChars[6]['data-sort'])
                     started_filter = current_time - started_time <= 86400
-                    ending_filter = ending_time - current_time <= 86400
+                    ending_filter = 0 < ending_time - current_time <= 86400
                     if started_filter or ending_filter:
                         notCasualOr2d : bool = None
                         link = 'https://steamdb.info' + gameChars[2].find('a')['href']
@@ -65,7 +65,7 @@ class SteamParser:
                             gameRow = {
                                         "name" : gameChars[2].find('a').string,
                                         "discount" : gameChars[3]['data-sort'] + '%',
-                                        "price" : str(float(gameChars[4]['data-sort']) / 100) + 'р.',
+                                        "price" : str(float(gameChars[4]['data-sort']) / 100) + ' р.',
                                         "rating" : gameChars[5]["data-sort"] + '%',
                                         "steam_link" : 'https://store.steampowered.com' + gameChars[2].find('a')['href']
                                     }
@@ -84,10 +84,6 @@ class SteamParser:
     def generateTop(self):
         response = requests.get(
                 steamTopPage, headers=self.__headers, cookies=self.__cookies, timeout=(3, 10))
-        link = "https://steamdb.info" + BeautifulSoup(response.text, features='lxml').find('a', {'class' : 'btn', 'rel': 'prev'})['href']
-        response = requests.get(
-                link, headers=self.__headers, cookies=self.__cookies, timeout=(3, 10))
-        # print(link, response)
         table = BeautifulSoup(response.text, features='lxml').find('table', {'class' : 'table-products table-hover table-responsive-flex text-left'})
         top = []
         

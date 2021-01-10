@@ -2,7 +2,7 @@
 
 
 
-Corrupted Hospital : Summoner Part1 · AppID: 1440870 · SteamDB
+Lawnmower Game: Racing · AppID: 1433890 · SteamDB
 
 
 
@@ -128,7 +128,7 @@ SteamDB is a community website and is not affiliated with Valve or Steam. All ti
 
 
 
-Corrupted Hospital : Summoner Part1
+Lawnmower Game: Racing
 
 Wishlist
 Follow
@@ -145,23 +145,19 @@ Ignore
 
 
 App ID
-1440870
+1433890
 
 
 App Type
 Game
 
 
-Store Name
-Corrupted Hospital : Summoner VR Part1
-
-
 Developer
-MINO ENTERTAINMENT INC 
+Tero Lunkka 
 
 
 Publisher
-MINO ENTERTAINMENT INC 
+Tero Lunkka 
 
 
 Supported Systems
@@ -169,15 +165,15 @@ Supported Systems
 
 
 Last Record Update
- (20 December 2020 – 06:55:05 UTC)
+ (3 January 2021 – 20:42:50 UTC)
 
 
 Last Change Number 
-10304257
+10388222
 
 
 Release Date
-23 October 2020 – 21:53:36 UTC ()
+16 October 2020 – 07:03:18 UTC ()
 
 
 
@@ -197,13 +193,11 @@ Hub
 
 
 
+❓ 75.72%
+↑46 ↓7
 
 
-❓ 66.03%
-↑26 ↓9
-
-
-1
+0
 In-Game
 
 
@@ -218,27 +212,7 @@ In-Game
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This game is a puzzle adventure game with a horror atmosphere. And there's an special stage where you have to defend against zombies on dark night.
+New part for Lawnmower saga. Now first racing version. Select lawnmower and track and start racing against other...
 
 
 
@@ -255,8 +229,8 @@ You can also click "Watch" button in top right, and use the watching page which 
 
 
  Prices Steam Charts Information
- Packages 1
- Depots 3 Configuration Screenshots
+ Packages 2
+ Depots 4 Configuration Stats Screenshots
  History
 
 
@@ -410,410 +384,410 @@ Lowest Recorded Price
 
  U.S. Dollar
 
-$1.49 at -50%
-110,38 ₽
-+169.23%
-110,38 ₽
-$1.49 at -50%
+$0.49 at -75%
+36,30 ₽
++142.01%
+36,30 ₽
+$0.49 at -75%
 
 
 
  British Pound
 
-£1.04 at -50%
-104,51 ₽
-+154.92%
-104,51 ₽
-£1.04 at -50%
+£0.42 at -75%
+42,20 ₽
++181.39%
+40,19 ₽
+£0.40 at -76%
 
 
 
  Euro
 
-1,19€ at -50%
-107,77 ₽
-+162.87%
-107,77 ₽
-1,19€ at -50%
+0,39€ at -75%
+35,32 ₽
++135.47%
+35,32 ₽
+0,39€ at -75%
 
 
 
  Russian Ruble
 
-41 ₽ at -50%
-41 ₽
-41 ₽
-41 ₽ at -50%
+15 ₽ at -75%
+15 ₽
+15 ₽
+15 ₽ at -75%
 
 
 
  Brazilian Real
 
-R$ 3,24 at -50%
-44,32 ₽
-+8.11%
-44,32 ₽
-R$ 3,24 at -50%
+R$ 1,16 at -74%
+15,86 ₽
++5.79%
+15,86 ₽
+R$ 1,16 at -74%
 
 
 
  Japanese Yen
 
-¥ 155 at -50%
-110,46 ₽
-+169.43%
-110,46 ₽
-¥ 155 at -50%
+¥ 51 at -75%
+36,34 ₽
++142.32%
+36,34 ₽
+¥ 51 at -75%
 
 
 
  Indonesian Rupiah
 
-Rp 12499 at -50%
-65,50 ₽
-+59.77%
-65,50 ₽
-Rp 12499 at -50%
+Rp 4374 at -75%
+22,92 ₽
++52.83%
+22,92 ₽
+Rp 4374 at -75%
 
 
 
  Malaysian Ringgit
 
-RM4.25 at -50%
-78,07 ₽
-+90.44%
-78,07 ₽
-RM4.25 at -50%
+RM1.54 at -72%
+28,29 ₽
++88.62%
+28,29 ₽
+RM1.54 at -72%
 
 
 
  Philippine Peso
 
-₱49.97 at -50%
-76,99 ₽
-+87.79%
-76,99 ₽
-₱49.97 at -50%
+₱18.18 at -74%
+28,01 ₽
++86.75%
+28,01 ₽
+₱18.18 at -74%
 
 
 
  Singapore Dollar
 
-S$1.62 at -50%
-90,51 ₽
-+120.77%
-90,51 ₽
-S$1.62 at -50%
+S$0.55 at -74%
+30,73 ₽
++104.87%
+30,73 ₽
+S$0.55 at -74%
 
 
 
  Thai Baht
 
-฿31.50 at -50%
-77,43 ₽
-+88.87%
-77,43 ₽
-฿31.50 at -50%
+฿11.70 at -74%
+28,76 ₽
++91.80%
+28,76 ₽
+฿11.70 at -74%
 
 
 
  Vietnamese Dong
 
-21500₫ at -50%
-68,90 ₽
-+68.06%
-68,90 ₽
-21500₫ at -50%
+7500₫ at -75%
+24,03 ₽
++60.24%
+24,03 ₽
+7500₫ at -75%
 
 
 
  South Korean Won
 
-₩ 1650 at -50%
-111,83 ₽
-+172.77%
-111,83 ₽
-₩ 1650 at -50%
+₩ 550 at -75%
+37,27 ₽
++148.52%
+37,27 ₽
+₩ 550 at -75%
 
 
 
  Turkish Lira
 
-₺3,10 at -50%
-31,13 ₽
--24.06%
-31,13 ₽
-₺3,10 at -50%
+₺1,05 at -75%
+10,54 ₽
+-29.69%
+10,54 ₽
+₺1,05 at -75%
 
 
 
  Ukrainian Hryvnia
 
-29₴ at -51%
-75,83 ₽
-+84.95%
-75,83 ₽
-29₴ at -51%
+10₴ at -75%
+26,14 ₽
++74.32%
+26,14 ₽
+10₴ at -75%
 
 
 
  Mexican Peso
 
-Mex$ 18.64 at -50%
-69,01 ₽
-+68.33%
-69,01 ₽
-Mex$ 18.64 at -50%
+Mex$ 6.74 at -75%
+24,95 ₽
++66.36%
+24,95 ₽
+Mex$ 6.74 at -75%
 
 
 
  Canadian Dollar
 
-CDN$ 1.69 at -50%
-98,66 ₽
-+140.65%
-98,66 ₽
-CDN$ 1.69 at -50%
+CDN$ 0.59 at -74%
+34,44 ₽
++129.64%
+34,44 ₽
+CDN$ 0.59 at -74%
 
 
 
  Australian Dollar
 
-A$ 2.25 at -50%
-129,34 ₽
-+215.49%
-129,34 ₽
-A$ 2.25 at -50%
+A$ 0.76 at -74%
+43,66 ₽
++191.11%
+43,66 ₽
+A$ 0.76 at -74%
 
 
 
  New Zealand Dollar
 
-NZ$ 1.84 at -50%
-98,75 ₽
-+140.86%
-98,75 ₽
-NZ$ 1.84 at -50%
+NZ$ 0.64 at -74%
+34,30 ₽
++128.71%
+34,30 ₽
+NZ$ 0.64 at -74%
 
 
 
  Norwegian Krone
 
-10,25 kr at -50%
-90,16 ₽
-+119.92%
-90,16 ₽
-10,25 kr at -50%
+3,87 kr at -75%
+34,10 ₽
++127.36%
+34,10 ₽
+3,87 kr at -75%
 
 
 
  Polish Zloty
 
-5,49zł at -50%
-110,16 ₽
-+168.71%
-110,16 ₽
-5,49zł at -50%
+1,79zł at -75%
+35,92 ₽
++139.47%
+35,92 ₽
+1,79zł at -75%
 
 
 
  Swiss Franc
 
-CHF 1.50 at -50%
-125,48 ₽
-+206.07%
-125,48 ₽
-CHF 1.50 at -50%
+CHF 0.50 at -75%
+41,82 ₽
++178.86%
+41,82 ₽
+CHF 0.50 at -75%
 
 
 
  Chinese Yuan
 
-¥ 7 at -53%
-80,08 ₽
-+95.33%
-80,08 ₽
-¥ 7 at -53%
+¥ 3 at -73%
+34,32 ₽
++128.82%
+34,32 ₽
+¥ 3 at -73%
 
 
 
  Indian Rupee
 
-₹ 62 at -50%
-62,59 ₽
-+52.67%
-62,59 ₽
-₹ 62 at -50%
+₹ 21 at -75%
+21,20 ₽
++41.35%
+21,20 ₽
+₹ 21 at -75%
 
 
 
  Chilean Peso
 
-CLP$ 750 at -50%
-78,06 ₽
-+90.40%
-78,06 ₽
-CLP$ 750 at -50%
+CLP$ 250 at -75%
+25,91 ₽
++72.74%
+25,91 ₽
+CLP$ 250 at -75%
 
 
 
  Peruvian Sol
 
-S/.3.75 at -50%
-76,54 ₽
-+86.68%
-76,54 ₽
-S/.3.75 at -50%
+S/.1.25 at -75%
+25,51 ₽
++70.09%
+25,51 ₽
+S/.1.25 at -75%
 
 
 
  Colombian Peso
 
-COL$ 3250 at -50%
-68,84 ₽
-+67.91%
-68,84 ₽
-COL$ 3250 at -50%
+COL$ 1125 at -75%
+23,83 ₽
++58.87%
+21,92 ₽
+COL$ 1035 at -77%
 
 
 
  South African Rand
 
-R 13.50 at -50%
-65,35 ₽
-+59.40%
-65,35 ₽
-R 13.50 at -50%
+R 5.04 at -72%
+24,39 ₽
++62.66%
+24,39 ₽
+R 5.04 at -72%
 
 
 
  Hong Kong Dollar
 
-HK$ 9.00 at -50%
-85,96 ₽
-+109.66%
-85,96 ₽
-HK$ 9.00 at -50%
+HK$ 3.00 at -75%
+28,63 ₽
++90.89%
+28,63 ₽
+HK$ 3.00 at -75%
 
 
 
  Taiwan Dollar
 
-NT$ 33 at -50%
-87,25 ₽
-+112.82%
-87,25 ₽
-NT$ 33 at -50%
+NT$ 11 at -76%
+29,04 ₽
++93.65%
+29,04 ₽
+NT$ 11 at -76%
 
 
 
  Saudi Riyal
 
-3.97 SR at -50%
-78,39 ₽
-+91.20%
-78,39 ₽
-3.97 SR at -50%
+1.41 SR at -73%
+27,84 ₽
++85.62%
+27,84 ₽
+1.41 SR at -73%
 
 
 
  U.A.E. Dirham
 
-4.50 AED at -50%
-90,76 ₽
-+121.38%
-90,76 ₽
-4.50 AED at -50%
+1.50 AED at -75%
+30,25 ₽
++101.69%
+30,25 ₽
+1.50 AED at -75%
 
 
 
  Argentine Peso
 
-ARS$ 19,99 at -50%
-17,40 ₽
--57.56%
-17,40 ₽
-ARS$ 19,99 at -50%
+ARS$ 7,01 at -74%
+6,10 ₽
+-59.32%
+6,10 ₽
+ARS$ 7,01 at -74%
 
 
 
  Israeli New Shekel
 
-₪5.47 at -50%
-127,31 ₽
-+210.53%
-127,31 ₽
-₪5.47 at -50%
+₪1.81 at -75%
+42,05 ₽
++180.35%
+42,05 ₽
+₪1.81 at -75%
 
 
 
  Kazakhstani Tenge
 
-325₸ at -50%
-57,28 ₽
-+39.73%
-57,28 ₽
-325₸ at -50%
+126₸ at -72%
+22,21 ₽
++48.07%
+22,21 ₽
+126₸ at -72%
 
 
 
  Kuwaiti Dinar
 
-0.32 KD at -51%
-78,13 ₽
-+90.56%
-78,13 ₽
-0.32 KD at -51%
+0.11 KD at -76%
+26,80 ₽
++78.68%
+24,36 ₽
+0.10 KD at -78%
 
 
 
  Qatari Riyal
 
-4.09 QR at -50%
-83,21 ₽
-+102.97%
-83,21 ₽
-4.09 QR at -50%
+1.42 QR at -74%
+28,65 ₽
++91.04%
+28,65 ₽
+1.42 QR at -74%
 
 
 
  Costa Rican Colon
 
-₡700 at -50%
-84,29 ₽
-+105.60%
-84,29 ₽
-₡700 at -50%
+₡255 at -73%
+30,70 ₽
++104.72%
+30,70 ₽
+₡255 at -73%
 
 
 
  Uruguayan Peso
 
-$U36 at -50%
-62,75 ₽
-+53.07%
-62,75 ₽
-$U36 at -50%
+$U12 at -75%
+20,91 ₽
++39.47%
+20,91 ₽
+$U12 at -75%
 
 
 
  CIS - U.S. Dollar
 
-$1.09 at -50%
-80,75 ₽
-+96.95%
-80,75 ₽
-$1.09 at -50%
+$0.34 at -76%
+25,18 ₽
++67.92%
+20 ₽
+$0.27 at -81%
 
 
 
  South Asia - USD
 
-$0.94 at -50%
-69,63 ₽
-+69.85%
-69,63 ₽
-$0.94 at -50%
+$0.32 at -75%
+23,70 ₽
++58.05%
+18,52 ₽
+$0.25 at -81%
 
 
 
@@ -833,12 +807,10 @@ You must have JavaScript enabled.
 
 
 User Tags
-ActionAdventureZombiesSurvivalFPSPuzzleHorrorStory RichPost-apocalypticPhysicsSurvival HorrorCombatAction-AdventureRealistic3DDark Fantasy6DOFPvEHuntingVR
+IndieRacingDrivingThird PersonHidden ObjectCompetitiveMinimalistFunnySingleplayerChoices MatterOffroadMemesTime ManagementAutomobile Sim
 
 
 Screenshots
-
-
 
 
 
@@ -853,43 +825,35 @@ Additional Information
 
 
 clienticon
-d2b5f3bdf8c38354e298391f2e4cd5431d82a68a
+8469ad102a279ff51161083313f13d02b50b6d4a
 
 
 clienttga
-06a1b38648c81684ad7bcf1defaaac736d9cdf85
+4a9b8b3762b15cead7cb58adead9d7d21da85f52
 
 
 icon
-67a09a899d013b093da33eeedc64ba2829eb7653
+dde6e2e157d233f7bdd41b25452a1e87894fc37a
 
 
 logo
-49e5cc6dfce52cf7360a56d84256c4aee1567f31
+6c1123734eccf0d807f2b2994c644f781189c428
 
 
 logo_small
-49e5cc6dfce52cf7360a56d84256c4aee1567f31_thumb
+6c1123734eccf0d807f2b2994c644f781189c428_thumb
 
 
-clienticns
-bc31e865953b914f616c1987bb9743e2c6a0fef4
-
-
-LinuxClientIcon
-9b9fce7edbb2e2c1687ba131e6c6759ac5398431
+community_visible_stats
+Yes
 
 
 ReleaseState
 released
 
 
-has_adult_content
-Yes
-
-
 Store Release Date
-23 October 2020 ()
+16 October 2020 ()
 
 
 osarch
@@ -900,18 +864,6 @@ community_hub_visible
 Yes
 
 
-OpenVrSupport
-1
-
-
-ControllerVr
-oculus1steamvr1
-
-
-PlayAreaVr
-roomscale/360_required0roomscale/depth1.5roomscale/width2standing1
-
-
 small_capsule
 englishcapsule_231x87.jpg
 
@@ -920,24 +872,16 @@ header_image
 englishheader.jpg
 
 
-vrheadsetstreaming
-Yes
-
-
-onlyvrsupport
-Yes
-
-
 Associations
-0/nameMINO ENTERTAINMENT INC0/typedeveloper1/nameMINO ENTERTAINMENT INC1/typepublisher
+0/nameTero Lunkka0/typedeveloper1/nameValkeala Software1/typedeveloper2/nameTero Lunkka2/typepublisher3/nameTero Lunkka games3/typefranchise
 
 
 Primary Genre
-23 (Indie)
+9 (Racing)
 
 
 Store Genres
-1 (Action), 25 (Adventure), 23 (Indie)
+23 (Indie), 9 (Racing)
 
 
 Supported Languages
@@ -945,15 +889,15 @@ Supported Languages
 
 
 Steam Release Date
-23 October 2020 – 21:53:36 UTC ()
+16 October 2020 – 07:03:18 UTC ()
 
 
 Store Asset Modification Time
-8 October 2020 – 13:48:05 UTC (1602164885) 
+30 September 2020 – 14:07:19 UTC (1601474839) 
 
 
 library_assets
-library_capsuleen  view portrait imagelibrary_heroen  view hero backgroundlibrary_logoen  view logo imagelogo_position/pinned_positionBottomLeftlogo_position/width_pct54.72350230414747logo_position/height_pct59.05268913439485
+library_capsuleen  view portrait imagelibrary_heroen  view hero backgroundlibrary_logoen  view logo imagelogo_position/pinned_positionCenterCenterlogo_position/width_pct100logo_position/height_pct84.05865657521284
 
 
 osextended
@@ -961,23 +905,19 @@ empty string
 
 
 Web Assets
-capsule_231x87.jpgLast-Modified: 8 October 2020 – 14:21:57 UTCcapsule_616x353.jpgLast-Modified: 8 October 2020 – 14:21:57 UTCheader.jpgLast-Modified: 8 October 2020 – 14:21:57 UTClibrary_600x900.jpgLast-Modified: 8 October 2020 – 14:21:57 UTClibrary_hero.jpgLast-Modified: 8 October 2020 – 14:21:58 UTClogo.pngLast-Modified: 8 October 2020 – 14:21:57 UTCpage_bg_raw.jpgLast-Modified: 8 October 2020 – 14:21:59 UTC
+capsule_231x87.jpgLast-Modified: 2 October 2020 – 14:26:35 UTCcapsule_616x353.jpgLast-Modified: 2 October 2020 – 14:26:35 UTCheader.jpgLast-Modified: 2 October 2020 – 14:26:35 UTClibrary_600x900.jpgLast-Modified: 2 October 2020 – 14:26:35 UTClibrary_hero.jpgLast-Modified: 2 October 2020 – 14:26:35 UTClogo.pngLast-Modified: 2 October 2020 – 14:26:35 UTC
 
 
 review_score
-6
+8
 
 
 review_percentage
-74
+86
 
 
 Microtrailer
-https://cdn.cloudflare.steamstatic.com/steam/apps/256804084/microtrailer.webm
-
-
-has_adult_content_violence
-Yes
+https://cdn.cloudflare.steamstatic.com/steam/apps/256803002/microtrailer.webm
 
 
 
@@ -987,13 +927,13 @@ Yes
 
 
 
-1 players right now
-3 24-hour peak
-5 all-time peak 24 October 2020 – 19:10:10 UTC
+0 players right now
+1 24-hour peak
+6 all-time peak 16 October 2020 – 11:40:08 UTC
 
 
 Copy this code and paste it into your website:
-<iframe src="https://steamdb.info/embed/?appid=1440870" height="389" style="border:0;overflow:hidden;width:100%"></iframe>
+<iframe src="https://steamdb.info/embed/?appid=1433890" height="389" style="border:0;overflow:hidden;width:100%"></iframe>
 
 
 
@@ -1017,9 +957,9 @@ You must have JavaScript enabled.
 
 Concurrent players
 
-1 players right now
-3 24-hour peak
-5 all-time peak 24 October 2020 – 19:10:10 UTC
+0 players right now
+1 24-hour peak
+6 all-time peak 16 October 2020 – 11:40:08 UTC
 
 
 
@@ -1029,7 +969,7 @@ Owner estimations
 0 .. 20,000 by SteamSpy
 
 
-700 .. 2,100 based on reviews
+1,060 .. 3,180 based on reviews
 
 
 
@@ -1037,10 +977,10 @@ Owner estimations
 
 Store data
 
-132 followers
-26 positive reviews
-9 negative reviews
-74.29% positive reviews
+209 followers
+46 positive reviews
+7 negative reviews
+86.79% positive reviews
 
 
 
@@ -1078,7 +1018,7 @@ Twitch Peak
 
 
 
-How many players are playing Corrupted Hospital : Summoner Part1 right now on Steam? There are 1 players in Corrupted Hospital : Summoner Part1 on Steam. Corrupted Hospital : Summoner Part1 player counter. Corrupted Hospital : Summoner Part1 Steam charts.
+How many players are playing Lawnmower Game: Racing right now on Steam? There are 0 players in Lawnmower Game: Racing on Steam. Lawnmower Game: Racing player counter. Lawnmower Game: Racing Steam charts.
 
 
 Bundles that include this app
@@ -1095,20 +1035,46 @@ Created
 
 
 
-18320
+2952
 
 
 
 
-Summoner VR : Review Event Pakage
+Valkeala Software Bundle
 
 
--30%
+-40%
 
 
 No
 
-14 December 2020 – 20:02:23 UTC
+24 December 2018 – 15:03:10 UTC
+
+
+5481
+
+Masterpiece bundle
+
+
+-37%
+
+
+No
+
+4 January 2019 – 00:03:49 UTC
+
+
+8712
+
+Lawnmower bundle
+
+
+-24%
+
+
+No
+
+19 January 2019 – 20:02:17 UTC
 
 
 
@@ -1126,15 +1092,23 @@ Last Update
 
 
 
-506621
+503830
 
 
 
 
-Corrupted Hospital : Summoner VR Part1
+Lawnmower Game: Racing
 
 Store or CD Key
-9 January 2021 – 01:00:01 UTC
+9 January 2021 – 18:00:03 UTC
+
+
+506595
+
+Steam Sub 506595
+
+No Cost
+3 October 2020 – 05:44:52 UTC
 
 
 
@@ -1177,9 +1151,21 @@ Shared InstallDepot from 228980
 
 
 
-1440871
-Corrupted Hospital : Summoner Part1 Content
-2.49 GiB
+229000
+.NET 3.5 Redist
+231.50 MiB
+
+
+
+
+Shared InstallDepot from 228980
+
+
+
+1433891
+Lawnmower Game: Racing Content
+4.49 GiB
+
 
 
 
@@ -1209,10 +1195,25 @@ public
 
 
 
-5956370
+5998351
 
-11 December 2020 – 17:47:06 UTC
+29 December 2020 – 11:26:54 UTC
 
+
+
+
+Other
+
+
+
+Name
+Value
+
+
+
+
+baselanguages
+English
 
 
 
@@ -1226,12 +1227,12 @@ Launch Options
 
 
 Executable
-SummonerVRHospital.exe
+Lawnmowerracing.exe
 
 
 
 Launch Type
-Launch SteamVR App
+Launch (Default)
 
 
 
@@ -1240,6 +1241,11 @@ Operating System
  
 windows
 
+
+
+
+CPU Architecture
+64-bit only
 
 
 
@@ -1255,7 +1261,7 @@ Value
 
 
 installdir
-Corrupted Hospital Summoner Part1
+Lawnmower Game Racing
 
 
 
@@ -1269,6 +1275,646 @@ History
 Crunching history, just for you…
 
 Click to load more history
+
+
+
+Achievements
+
+
+
+
+API name
+Display name and description
+Icons
+
+
+
+
+ACH_LEVEL_1_T
+
+Play western level
+
+Play western
+
+
+
+ 
+
+
+
+ACH_LEVEL_2_T
+
+Find golden barrel at Western track
+
+Western track golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_3_T
+
+Play Forest lake
+
+Play forest lake
+
+
+
+ 
+
+
+
+ACH_LEVEL_4_T
+
+Find golden barrel forest lake track
+
+Forest lake golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_5_T
+
+Play City map
+
+Play city map
+
+
+
+ 
+
+
+
+ACH_LEVEL_6_T
+
+Find golden barrel City track
+
+City golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_7_T
+
+Play Snow track
+
+Play snow track
+
+
+
+ 
+
+
+
+ACH_LEVEL_8_T
+
+Find golden barrel Snow track
+
+Snow track golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_9_T
+
+Play Canyon track
+
+Play Canyon track
+
+
+
+ 
+
+
+
+ACH_LEVEL_10_T
+
+Find golden barrel Canyon track
+
+Canyon golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_11_T
+
+Play City 2
+
+Play City 2
+
+
+
+ 
+
+
+
+ACH_LEVEL_12_T
+
+Find golden barrel City 2
+
+City 2 golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_13_T
+
+Play Farm Town
+
+Play farm town
+
+
+
+ 
+
+
+
+ACH_LEVEL_14_T
+
+Find golden barrel Farm Town
+
+Farm town golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_15_T
+
+Play Dark Town
+
+Play dark town
+
+
+
+ 
+
+
+
+ACH_LEVEL_16_T
+
+Find golden barrel dark town
+
+dark town golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_17_T
+
+Play Forest
+
+Play Forest
+
+
+
+ 
+
+
+
+ACH_LEVEL_18_T
+
+Find golden barrel Forest track
+
+Forest golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_19_T
+
+Play Road track
+
+Play road track
+
+
+
+ 
+
+
+
+ACH_LEVEL_20_T
+
+Find golden barrel Road track
+
+Road track golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_21_T
+
+Play Avalanche track
+
+Play Avalanche track
+
+
+
+ 
+
+
+
+ACH_LEVEL_22_T
+
+Find golden barrel Avalanche track
+
+Avalanche golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_23_T
+
+Play Swamp track
+
+Play swamp track
+
+
+
+ 
+
+
+
+ACH_LEVEL_24_T
+
+Find golden barrel swamp track
+
+Swamp track golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_25_T
+
+Play War city
+
+Play war city
+
+
+
+ 
+
+
+
+ACH_LEVEL_26_T
+
+Find golden barrel war city
+
+War city golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_27_T
+
+Play sci-fi city
+
+Play sci-fi city
+
+
+
+ 
+
+
+
+ACH_LEVEL_28_T
+
+Find golden barrel sci-fi city
+
+Sci-fi city golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_29_T
+
+Play Racetrack
+
+Play racetrack
+
+
+
+ 
+
+
+
+ACH_LEVEL_30_T
+
+Find golden barrel Racetrack
+
+Racetrack golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_31_T
+
+Play Racetrack 2
+
+Play Racetrack 2
+
+
+
+ 
+
+
+
+ACH_LEVEL_32_T
+
+Find golden barrel Racetrack 2
+
+Racetrack 2 golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_33_T
+
+Play Western 2
+
+Play Western 2
+
+
+
+ 
+
+
+
+ACH_LEVEL_34_T
+
+Find golden barrel Western 2 track
+
+Western 2 track golden barrel
+
+
+
+ 
+
+
+
+ACH_LEVEL_35_T
+
+Play racetrack 3
+
+Play racetrack 3
+
+
+
+ 
+
+
+
+ACH_LEVEL_36_T
+
+Find golden barrel racetrack 3
+
+Find golden barrel racetrack 3
+
+
+
+ 
+
+
+
+ACH_LEVEL_37_T
+
+Play cemetary track
+
+Play cemetary track
+
+
+
+ 
+
+
+
+ACH_LEVEL_38_T
+
+Find golden barrel cemetary track
+
+Find golden barrel cemetary track
+
+
+
+ 
+
+
+
+ACH_LEVEL_39_T
+
+Play racetrack 4
+
+Play racetrack 4
+
+
+
+ 
+
+
+
+ACH_LEVEL_40_T
+
+Find golden barrel racetrack 4
+
+Find golden barrel racetrack 4
+
+
+
+ 
+
+
+
+ACH_LEVEL_41_T
+
+Play towntrack
+
+Play towntrack
+
+
+
+ 
+
+
+
+ACH_LEVEL_42_T
+
+Find golden barrel town track
+
+Find golden barrel town track
+
+
+
+ 
+
+
+
+ACH_LEVEL_43_T
+
+Play long road
+
+Play long road
+
+
+
+ 
+
+
+
+ACH_LEVEL_44_T
+
+Find golden barrel long road
+
+Find golden barrel long road
+
+
+
+ 
+
+
+
+ACH_LEVEL_45_T
+
+Play Western 3 track
+
+Play western 3 track
+
+
+
+ 
+
+
+
+ACH_LEVEL_46_T
+
+Find golden barrel western track 3
+
+Find golden barrel Western track 3
+
+
+
+ 
+
+
+
+ACH_LEVEL_47_T
+
+Play Forest lake 2
+
+Play forest lake 2
+
+
+
+ 
+
+
+
+ACH_LEVEL_48_T
+
+Find golden barrel Forest lake 2
+
+Find golden barrel forest lake 2
+
+
+
+ 
+
+
+
+ACH_LEVEL_49_T
+
+Play sci-fi city 2
+
+Play sci-fi city 2
+
+
+
+ 
+
+
+
+ACH_LEVEL_50_T
+
+Find golden barrel sci-fi city 2
+
+Find golden barrel sci-fi city 2
+
+
+
+ 
+
+
+
+ACH_LEVEL_51_T
+
+Play industrial area
+
+Play industrial area
+
+
+
+ 
+
+
+
+ACH_LEVEL_52_T
+
+Find golden barrel industrial area
+
+Find golden barrel industrial area
+
+
+
+ 
+
+
+
+
 
 
 
