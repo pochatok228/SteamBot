@@ -22,7 +22,7 @@ def constructSailMessages() -> tuple:
                                                                                  newSale['steam_link'])
     string_template2 = "Скидки на игры в STEAM, которые закончатся в течении 24 часов:\n\n"
     for newSale in endingSalesList:
-        string_template2 += "{}\nСкидка: {}, Цена: {} Рейтинг: {}\n{}\n\n".format(newSale['name'],
+        string_template2 += "{}\nСкидка: {}, Цена: {}, Рейтинг: {}\n{}\n\n".format(newSale['name'],
                                                                                  newSale['discount'],
                                                                                  newSale['price'], newSale['rating'],
                                                                                  newSale['steam_link'])
